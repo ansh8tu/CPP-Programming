@@ -48,7 +48,7 @@ int main()
 .
 .
 
-/* #include<iostream>
+#include<iostream>
 using namespace std;
 
 int main()
@@ -62,9 +62,9 @@ int main()
 	cout << "Not Really!! " << Number << " is my favourite number too!!" << endl;
 
 	return 0;
-} */
+} 
 
-/*#include<iostream>
+#include<iostream>
 using namespace std;
  
 int main()
@@ -83,11 +83,11 @@ int main()
 
 	return 0;
 }
-*/
 
 
 
-/*#include<iostream>
+
+#include<iostream>
 using namespace std;
 
 class cars
@@ -114,4 +114,4 @@ int main()
 
 	return 0;
 }
-*/
+
