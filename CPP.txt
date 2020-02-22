@@ -43,3 +43,75 @@ int main()
     std::cout<<(int) 2.999<<std::endl;
     return 0;
 }
+.
+.
+.
+.
+
+/* #include<iostream>
+using namespace std;
+
+int main()
+{  
+	int Number;
+	cout << "Enter any number between 1 and 100" << endl;
+	cin >> Number;
+	//This is a how we do a single line comment
+
+	cout << "Whoops its my favourite number too" << endl;
+	cout << "Not Really!! " << Number << " is my favourite number too!!" << endl;
+
+	return 0;
+} */
+
+/*#include<iostream>
+using namespace std;
+ 
+int main()
+{
+	cout << "Enter the length of the room: ";
+	int room_length;
+	cin >> room_length;
+
+	cout << "Enter the width of the room ";
+	int room_width;
+	cin >> room_width;
+
+	int area_of_the_room;
+	area_of_the_room = room_length * room_width;
+	cout << "The area of the room is " << area_of_the_room << " square feet\n";
+
+	return 0;
+}
+*/
+
+
+
+/*#include<iostream>
+using namespace std;
+
+class cars
+{
+
+public:
+
+	string name;
+	string model;
+	string price;
+};
+
+int main()
+{
+	cars car1;
+
+	car1.name = "Ferrari";
+	car1.model = "X500";
+	car1.price = "Rs.5M";
+
+	cout << "The name of car is:" << car1.name << endl;
+	cout << "The model of the car is:" << car1.model << endl;
+	cout << "The price of car is:" << car1.price << endl;
+
+	return 0;
+}
+*/
