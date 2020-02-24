@@ -1,4 +1,4 @@
-This is a code for string concatination:
+//This is a code for string concatination:
 .
 .
 #include<iostream>
