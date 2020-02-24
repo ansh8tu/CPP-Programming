@@ -1,7 +1,7 @@
-The link for using different namespaces is below;
-https://ide.geeksforgeeks.org/CD2mSZ4JXJ
+//The link for using different namespaces is below;
+//https://ide.geeksforgeeks.org/CD2mSZ4JXJ
 
-The code for using different namespaces is;
+//The code for using different namespaces is;
 
 #include<iostream>
 namespace devops
