@@ -7,5 +7,8 @@ This is the Repository for CPP Programming.
 
 Much More to come in future!! Cheers!!
 
+One more important point usually if the two statements of both sides are same i.e LHS=RHS then 1,is displayed else 0 is displayed but 
+if you want to display true (in case of 1) and false (in case of 0) then you can use boolalpha command.
+
 
 
